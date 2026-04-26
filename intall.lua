@@ -1,4 +1,4 @@
-local base = "https://github.com/SandBox-AD/Mining2000/blob/main/"
+local base = "https://raw.githubusercontent.com/SandBox-AD/Mining2000/main/"
 
 local files = {
  "startup",
